@@ -928,6 +928,8 @@ URLs:
 ---
 Artist: Black Box
 ---
+Artist: Black Midi
+---
 Artist: Blackhole
 Aliases:
 - Blackhole (Not-Terezi-Pyrope)
@@ -1136,6 +1138,15 @@ Dead URLs:
 - https://spaghetti-sasuke.tumblr.com/
 - https://konorebloggedartandstuff.tumblr.com/
 - http://www.formspring.me/Konotsuki
+---
+Artist: Buoyant
+Aliases:
+- Buoy
+- Jonathan Gjertsen
+URLs:
+- https://soundcloud.com/jonathangjertsen
+- https://www.youtube.com/@Buoyant_
+- https://buoy.newgrounds.com
 ---
 Artist: BurnedKirby
 Aliases:
@@ -2545,6 +2556,8 @@ Aliases:
 - Slim Shady
 ---
 Artist: Emma Essex
+Context Notes: |-
+    Releases music under a variety of names, including on this wiki: [[artist:jackal-queenston]], [[artist:kitcaliber]], [[artist:rotteen]].
 Dead URLs:
 - https://twitter.com/heckscaper
 ---
@@ -6577,6 +6590,12 @@ URLs:
 - https://twitter.com/wrenstarling
 - https://www.weavecomic.com/
 ---
+Artist: repeatedScales
+Context Notes: |-
+    Alias of [[artist:decon-theed]].
+URLs:
+- https://103records.bandcamp.com/
+---
 Artist: Requiem Cafe
 ---
 Artist: rerollroxy
@@ -7199,8 +7218,10 @@ Aliases:
 - KchoKuchou
 URLs:
 - https://hakuchou.bandcamp.com/music
-- https://soundcloud.com/ergoiregoera
+- https://www.youtube.com/@KchoKuchou
 - https://linktr.ee/hakuchou
+Dead URLs:
+- https://soundcloud.com/ergoiregoera
 ---
 Artist: Sian Hodgkinson
 ---
@@ -9584,6 +9605,7 @@ Aliases:
 URLs:
 - https://oscillatrix.bandcamp.com/
 - https://soundcloud.com/psithurist
+Dead URLs:
 - https://espeonn.tumblr.com/
 ---
 Artist: qsleeper
@@ -9621,12 +9643,15 @@ Artist: rennerei
 URLs:
 - https://rennerei.tumblr.com/
 ---
+<<<<<<< HEAD
 Artist: repeatedScales
 Context Notes: |-
     Alias of [[artist:decon-theed]].
 URLs:
 - https://103records.bandcamp.com/
 ---
+=======
+>>>>>>> upstream/preview
 Artist: rest✩taurus
 ---
 Artist: revergo
