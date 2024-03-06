@@ -1437,6 +1437,10 @@ Artist: Cakelets
 URLs:
 - https://myaverageartblog.tumblr.com/
 ---
+Artist: Caldw3ll
+URLs:
+- https://soundcloud.com/robert-wyatt-815554250
+---
 Artist: Caliboner
 ---
 Artist: Calibratorg
@@ -1785,6 +1789,10 @@ URLs:
 - https://www.poetryfoundation.org/poets/christina-rossetti
 ---
 Artist: Christopher Tyng
+---
+Artist: Chromaphantasia
+URLs:
+- https://www.youtube.com/channel/UC3wAY6v0bNhX--HX5GO3I2A
 ---
 Artist: Chrono Trigger
 ---
@@ -4025,6 +4033,15 @@ Artist: Hellen Jo
 ---
 Artist: Henri Meilhac
 ---
+Artist: Hermannco
+Aliases:
+- Pi3shark
+URLs:
+- https://twitter.com/Leomming
+- https://anthonycrawley.tumblr.com
+Dead URLs:
+- https://twitter.com/pi3shark
+---
 Artist: HermesNitram
 ---
 Artist: hexidecimal
@@ -5129,6 +5146,10 @@ Artist: Khoroshonov
 ---
 Artist: Kibbynbits
 ---
+Artist: KiddleScribbles
+URLs:
+- https://twitter.com/KiddleScribbles
+---
 Artist: EsfiArt
 Aliases:
 - Kiddy
@@ -5970,8 +5991,6 @@ Artist: Marianas Trench
 Artist: Mari Kikuma
 ---
 Artist: Mari Yamaguchi
----
-Artist: Maria Panaiotti
 ---
 Artist: Maria Schneider
 ---
@@ -7453,8 +7472,12 @@ Artist: Phoenix Wright
 Artist: phonebox
 ---
 Artist: Phos
+Aliases:
+- Maria Panaiotti
 URLs:
 - https://www.instagram.com/phos.phillon/
+Dead URLs:
+- https://twitter.com/PhosieP
 ---
 Artist: Phosphorescence
 ---
@@ -9325,6 +9348,8 @@ URLs:
 - https://open.spotify.com/user/systemofadowncmgmusic
 - https://music.apple.com/us/artist/system-of-a-down/462715
 ---
+Artist: T4NGL3P4L
+---
 Artist: Tate Norio
 ---
 Artist: Tatsu Hoshino
@@ -10916,6 +10941,26 @@ URLs:
 - https://www.instagram.com/clownbitz
 - https://snzical.carrd.co/
 ---
+Artist: temporaryVoid
+Aliases:
+- Trashyvoid
+- Clownvoid
+URLs:
+- https://www.youtube.com/@TrashyVoid
+- https://www.patreon.com/temporaryvoid
+- https://trashyvoid.newgrounds.com
+Dead URLs:
+- https://twitter.com/clownvoid
+- https://themuseofvoid.tumblr.com
+- https://clownvoid.tumblr.com
+# twitter handle not the same person, no idea what handle they use now (edit, figured it out, they're Trashyvoid)
+# tumblr no longer theirs
+- https://www.tumblr.com/trashyvoid
+- https://voidfort.tumblr.com
+- https://twitter.com/trashyvoid
+- https://www.deviantart.com/trashyvoid
+# goodness that's a lot of dead URLs
+---
 Artist: clownnboii
 URLs:
 - https://twitter.com/clownnboii
@@ -11037,6 +11082,8 @@ URLs:
 - https://twitter.com/dreamilyDriftin
 ---
 Artist: dromswell
+---
+Artist: e_music
 ---
 Artist: ehlsea
 URLs:
